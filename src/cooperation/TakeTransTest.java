@@ -14,7 +14,7 @@ public class TakeTransTest {
 
 		studentJ.takeBus(bus7016);
 		studentT.takeSubway(subwayBrown);
-
+		
 		studentJ.showInfo();
 		studentT.showInfo();
 

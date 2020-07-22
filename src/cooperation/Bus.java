@@ -15,6 +15,7 @@ public class Bus {
 		passengerCount++;
 	}
 
+	
 	public void showInfo() {
 		System.out.println(busNumber + "번 버스의 승객은 " + passengerCount + "명 이고, 수입은" + money + "입니다.");
 	}
